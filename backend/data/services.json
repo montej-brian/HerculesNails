@@ -1,0 +1,7 @@
+[
+  { "id": 1, "category": "Manicure", "name": "Classic Marble Manicure", "description": "Basic filing, shaping, cuticle care, and your choice of marble-finish polish.", "price": 25, "duration": 30 },
+  { "id": 2, "category": "Manicure", "name": "Golden Glow Gel", "description": "Long-lasting gel polish with 24k gold leaf accents.", "price": 45, "duration": 45 },
+  { "id": 3, "category": "Pedicure", "name": "Hercules Spa Pedicure", "description": "Ultimate relaxation with foot scrub, massage, and premium polish.", "price": 50, "duration": 60 },
+  { "id": 4, "category": "Nail Art", "name": "Custom Design", "description": "Bring your design or choose from our gallery. Per nail pricing.", "price": 10, "duration": 15 },
+  { "id": 5, "category": "Hercules Specials", "name": "The Olympia Combo", "description": "Full set acrylics with matching toes and a complimentary drink.", "price": 100, "duration": 120 }
+]

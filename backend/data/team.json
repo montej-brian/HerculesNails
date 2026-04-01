@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Athena Rossi", "title": "Master Nail Artist", "bio": "With over 10 years of experience, Athena specializes in intricate nail art and custom acrylic sculpting.", "specialties": ["Custom Acrylics", "3D Nail Art", "Bridal Nails"], "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&q=80", "rating": 4.9 },
+  { "id": 2, "name": "Chloe Kim", "title": "Gel Polish Specialist", "bio": "Chloe brings the latest Korean gel trends to Hercules Nails. Expect flawless, long-lasting finishes.", "specialties": ["Korean Gel", "Builder Gel", "Minimalist Art"], "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&q=80", "rating": 4.8 },
+  { "id": 3, "name": "Marcus Sterling", "title": "Pedicure Expert", "bio": "Marcus is our resident foot-care guru, delivering unparalleled relaxation with our Hercules Spa Pedicure.", "specialties": ["Spa Pedicures", "Reflexology", "Callus Removal"], "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&q=80", "rating": 5.0 }
+]
